@@ -4,3 +4,7 @@
 ![situation3](https://user-images.githubusercontent.com/74842863/215339692-810b79ea-fe3d-41f9-b3d0-dcff3cb11810.gif)
 ![situation4](https://user-images.githubusercontent.com/74842863/215338606-c2e3fe70-7221-4fdd-88e5-655fe24eca49.gif)
 ![fastodo1](https://user-images.githubusercontent.com/74842863/216558507-5b51891e-ff4b-49bb-90cc-744b1c181851.png)
+![multiple list](https://user-images.githubusercontent.com/74842863/216577970-79096615-1cb7-4514-b888-279b02e223a7.png)
+![todo](https://user-images.githubusercontent.com/74842863/216583051-f32d2afe-a8f5-4475-9155-77a370dd08c0.png)
+![calendar](https://user-images.githubusercontent.com/74842863/216587604-4f1bd4b9-d374-4072-a9cd-b81ded62f3e8.png)
+![sort](https://user-images.githubusercontent.com/74842863/216588450-f58e1c78-5885-4988-9a15-d51c66ec8919.png)
