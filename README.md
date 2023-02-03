@@ -3,3 +3,5 @@
 ![situation2](https://user-images.githubusercontent.com/74842863/215338599-406d97d0-18a1-49f3-a7c7-817887b60724.gif)
 ![situation3](https://user-images.githubusercontent.com/74842863/215339692-810b79ea-fe3d-41f9-b3d0-dcff3cb11810.gif)
 ![situation4](https://user-images.githubusercontent.com/74842863/215338606-c2e3fe70-7221-4fdd-88e5-655fe24eca49.gif)
+![fastodo1](https://user-images.githubusercontent.com/74842863/216557029-2b3f8cc9-0fcf-41c2-95ea-8a8732555540.png)
+![fastodo2](https://user-images.githubusercontent.com/74842863/216557384-e4f26ac3-a9f6-44b0-979d-a70bb044ce9b.png)
