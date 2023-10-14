@@ -6,3 +6,5 @@
 ![demo](https://user-images.githubusercontent.com/74842863/219844450-37d96fe1-d15d-4aaf-ae57-1c6ce66d8cbc.gif)
 ![avatar](https://github.com/m4xshen/img-host/assets/74842863/b2e99101-3f1f-459c-9f16-03efb74df2ab)
 ![html](https://github.com/m4xshen/img-host/assets/74842863/29363b54-e566-4b68-9cd9-3f6d692012a1)
+![vid](https://github.com/m4xshen/img-host/assets/74842863/6ee75b74-2873-4387-a42d-44623d772ad4)
+
