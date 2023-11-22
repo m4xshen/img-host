@@ -13,3 +13,6 @@
 ![2023-10-27-15 56 49](https://github.com/m4xshen/img-host/assets/74842863/3b752b0e-e256-49c5-953b-cb8a0bd9f3e1)
 ![image](https://github.com/m4xshen/img-host/assets/74842863/7a36531c-18b8-443e-9452-f8a85c7d9e6c)
 ![repohistory](https://github.com/m4xshen/img-host/assets/74842863/e8eaecb6-aeff-4c4e-a242-456dfaddaa76)
+
+![image](https://github.com/m4xshen/img-host/assets/74842863/fe15f6c3-376a-40dd-99b9-042b061b9ef8)
+![guide](https://github.com/m4xshen/img-host/assets/74842863/3b8b2380-6f61-4df3-af5b-72f0002399c4)
