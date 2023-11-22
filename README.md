@@ -16,3 +16,4 @@
 
 ![image](https://github.com/m4xshen/img-host/assets/74842863/fe15f6c3-376a-40dd-99b9-042b061b9ef8)
 ![guide](https://github.com/m4xshen/img-host/assets/74842863/3b8b2380-6f61-4df3-af5b-72f0002399c4)
+![guide](https://github.com/m4xshen/img-host/assets/74842863/fb2f0017-85e1-4e86-8dbb-b7c197d0e17a)
