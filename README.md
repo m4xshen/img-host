@@ -18,4 +18,4 @@
 ![guide](https://github.com/m4xshen/img-host/assets/74842863/3b8b2380-6f61-4df3-af5b-72f0002399c4)
 ![guide](https://github.com/m4xshen/img-host/assets/74842863/fb2f0017-85e1-4e86-8dbb-b7c197d0e17a)
 ![installation-instruction](https://github.com/m4xshen/img-host/assets/74842863/8156efbd-7be0-4432-8f26-8489e0abd782)
-![github-preview](https://github.com/m4xshen/img-host/assets/74842863/f0b4ef3c-df9f-4903-b3c1-5e8cc7b09f06)
+![github-preview](https://github.com/m4xshen/img-host/assets/74842863/9a2f3530-4f29-46f5-a500-a79b622516f3)
