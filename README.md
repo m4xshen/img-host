@@ -1,3 +1,4 @@
+![chart](https://github.com/m4xshen/img-host/assets/74842863/e7a455d2-f2e1-4d6f-ab86-633cfc25eb3e)
 ![image](https://github.com/m4xshen/img-host/assets/74842863/e2b7655d-6be5-491c-998f-50f919847da2)
 ![image](https://github.com/m4xshen/img-host/assets/74842863/d9ea7aaa-9561-4805-87d6-13cf91469024)
 
