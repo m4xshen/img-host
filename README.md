@@ -1,3 +1,6 @@
+
+![email-banner](https://github.com/m4xshen/img-host/assets/74842863/53e7451d-f162-46e4-a5f7-86f98818ba75)
+
 ![chart1](https://github.com/m4xshen/img-host/assets/74842863/7ba83c63-ff9a-4b30-8db4-6987ad5feb33)
 ![chart2](https://github.com/m4xshen/img-host/assets/74842863/40d12f6a-b3b3-4f16-8567-ec73e805a635)
 
